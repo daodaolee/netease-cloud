@@ -33,5 +33,5 @@ npm run electron:serve
 npm run electron:build
 ```
 ## 预览
-<img src="https://cdn.jsdelivr.net/gh/daodaolee/photobed@main/img/20220119050335.png" style="width: 400px">
-<img src="https://cdn.jsdelivr.net/gh/daodaolee/photobed@main/img/20220119050305.png" style="width: 400px">
+<img src="https://cdn.jsdelivr.net/gh/daodaolee/photobed@main/img/20220119162526.png" style="width: 400px">
+<img src="https://cdn.jsdelivr.net/gh/daodaolee/photobed@main/img/20220119162623.png" style="width: 400px">
