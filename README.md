@@ -1,10 +1,13 @@
 ![](https://cdn.jsdelivr.net/gh/daodaolee/photobed@main/img/20220119050208.png)
 # netease-cloud
-Mac端网易云音乐没有云盘上传，自己就做了个electron程序
+netease-cloud主要用于Mac端网易云音乐的云盘上传
+
 ## 说明
-本仓库代码和包只作体验和演示，有关安全性的问题概不负责。如果要保证安全性，建议自行部署后端接口。
+该项目不会记录用户的手机号和密码，本仓库代码和包仅作体验，有关安全性的问题概不负责。如果要保证安全性，建议自行部署后端接口。
 
 接口来自[NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi)，部署到了Vercel，项目架构 Vue3脚手架 + [Vue CLI Plugin Electron Builder](https://nklayman.github.io/vue-cli-plugin-electron-builder/)。
+
+项目运行的Node版本是v12+，如果打包报错 `cannot find module fs/promises`，请看[这里](http://liqingsong.cc/article/detail/22)
 
 ## 安装
 ```
